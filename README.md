@@ -1,6 +1,6 @@
 # cFS: Memory Manager
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-mm.svg)](https://github.com/yusend/cfs-mm/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-mm.svg)](https://github.com/lassondesat/cfs-mm/releases)
 
 * [Original README](cfs-mm-app-OSS-readme.txt)
 
@@ -31,6 +31,6 @@ command parameters, as well as, from files. Supports symbolic addressing.
 
 * https://sourceforge.net/projects/cfs-mm/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
-[cfs_lib]: https://github.com/yusend/cfs_lib
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
+[cfs_lib]: https://github.com/lassondesat/cfs_lib
